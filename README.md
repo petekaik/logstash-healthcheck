@@ -1,3 +1,3 @@
 # logstash-healthcheck
 
-Adaptation of the popular Logstash image with built-in health check
+Adaptation of the popular <a href="https://hub.docker.com/_/logstash">Logstash</a> image with built-in health check
